@@ -29,7 +29,8 @@ You need to have Node.js and MySQL Workbench installed
 4. Now we create the DB in MySQL Workbench. Connect with local instance and click here
    ![image](https://user-images.githubusercontent.com/80933510/230970184-81adba39-6729-4a8d-b4e7-b7af17fbd483.png)
 5. We name our DB buttonsmanager. You can choose the name you want but will have to change the name in '/server/db.js'.
-  ![image](https://user-images.githubusercontent.com/80933510/230972079-fe14d8fb-75fb-4639-b9d2-04db11cb4f79.png)
+  
+      ![image](https://user-images.githubusercontent.com/80933510/230972079-fe14d8fb-75fb-4639-b9d2-04db11cb4f79.png)
   
    Then click 'Apply'
 
