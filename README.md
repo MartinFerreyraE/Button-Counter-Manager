@@ -30,7 +30,9 @@ You need to have Node.js and MySQL Workbench installed
    ![image](https://user-images.githubusercontent.com/80933510/230970184-81adba39-6729-4a8d-b4e7-b7af17fbd483.png)
 5. We name our DB buttonsmanager. You can choose the name you want but will have to change the name in '/server/db.js'.
   ![image](https://user-images.githubusercontent.com/80933510/230972079-fe14d8fb-75fb-4639-b9d2-04db11cb4f79.png)
-  Then click 'Apply'
+  
+   Then click 'Apply'
+
 6. Now we select and open 'buttonsmanager', right click on 'Tables' and select the option 'Create Table'
 7. Then enter the data and options as they are in the image, then click 'Apply'
   ![image](https://user-images.githubusercontent.com/80933510/230972624-e1c4d4c8-a3bf-49f3-a678-911840e643f3.png)  
