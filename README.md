@@ -15,14 +15,16 @@ You need to have Node.js and MySQL Workbench installed
 1. Clone the repo
    ```sh
    https://github.com/MartinFerreyraE/Button-Counter-Manager.git
+   ```
    or
+   ```sh
    git@github.com:MartinFerreyraE/Button-Counter-Manager.git
    ```
-2. Go to the Client folder and Install NPM packages
+2. Go to the [client](./client) folder and Install NPM packages
    ```sh
    npm install
    ```
-3. Go to the Server folder and Install NPM packages
+3. Go to the [server](./server) folder and Install NPM packages
    ```sh
    npm install
    ```
@@ -38,8 +40,8 @@ You need to have Node.js and MySQL Workbench installed
 7. Then enter the data and options as they are in the image, then click 'Apply'
   ![image](https://user-images.githubusercontent.com/80933510/230972624-e1c4d4c8-a3bf-49f3-a678-911840e643f3.png)  
 8. Go to 'server/db.js' and configure your Workbench settings. Now we are ready to run the project! 🙌🏻🙌🏻
-9. Go to the client folder and run  ```npm start``` in the console.
-10. Go to the server folder and run  ```npm start``` in the console.
+9. Go to the [client](./client) folder and run  ```npm start``` in the console.
+10. Go to the [server](./server) folder and run  ```npm start``` in the console.
 11. Go to http://localhost:3000/ and you're up!
 
 Thank you very much for visiting my repository! 💪🏻
